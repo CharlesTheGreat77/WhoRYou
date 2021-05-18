@@ -4,12 +4,12 @@ _o)
 //\     WhoRYou
 V_/_    - GabeTheGreat
 ```
-* Get API Keys Here: [FREE]
+# API Keys: [FREE]
 ```
 NumVerify: https://numverify.com/
 Ekata: https://ekata.com/
 ```
-* Prerequisites
+# Prerequisites
 ```
 $ pip3 install -r requirements.txt
 # paste api keys in the whoRyou.py file
@@ -17,7 +17,7 @@ $ pip3 install -r requirements.txt
 - line 7: numVerifyKey = "<Api_Key"
 ```
 
-* Usage
+# Usage
 ```
 Usage: whoRyou.py [-h] [-n NUMBER]
 
