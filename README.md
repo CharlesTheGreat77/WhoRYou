@@ -14,7 +14,7 @@ Ekata: https://ekata.com/
 $ pip3 install -r requirements.txt
 # paste api keys in the whoRyou.py file
 - line 6: EkataApiKey = "<Api_Key>"
-- line 7: numVerifyKey = "<Api_Key"
+- line 7: numVerifyKey = "<Api_Key>"
 ```
 
 # Usage
