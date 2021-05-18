@@ -1,10 +1,9 @@
 import requests
-import json
 import argparse
 from colorama import Fore, Style
 
-EkataApiKey = "f36dc7bfd6d148f0822d593106a437ac"
-numVerifyKey = "9bac9786032d3dbad345b828b2bbe395"
+EkataApiKey = ""
+numVerifyKey = ""
 
 def ekata(number):
     url = "https://api.ekata.com/3.1/phone?api_key=" + EkataApiKey + "&phone=" + number
